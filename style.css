@@ -26,7 +26,7 @@ p {
 }
 
 .hidden-name {
-    background-image: url(name-background.JPG);
+    background-image: url(name-background.jpg);
     background-size: cover;
     height: 0px;
     overflow: hidden;
@@ -61,7 +61,7 @@ p {
 }
 
 .hidden-experience {
-    background-image: url(super-mario-alt.PNG);
+    background-image: url(super-mario-alt.png);
     background-size: cover;
     height: 0px;
     overflow: hidden;
