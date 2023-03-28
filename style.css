@@ -43,7 +43,7 @@ p {
 }
 
 .hidden-skills {
-    background-image: url(windows.JPG);
+    background-image: url(windows.jpg);
     background-size: cover;
     height: 0px;
     overflow: hidden;
