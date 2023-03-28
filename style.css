@@ -43,7 +43,7 @@ p {
 }
 
 .hidden-skills {
-    background-image: url(windows.jpg);
+    background-image: url(windows.JPG);
     background-size: cover;
     height: 0px;
     overflow: hidden;
@@ -61,7 +61,7 @@ p {
 }
 
 .hidden-experience {
-    background-image: url(super-mario-alt.png);
+    background-image: url(super-mario-alt.PNG);
     background-size: cover;
     height: 0px;
     overflow: hidden;
@@ -237,39 +237,39 @@ video.typical {
 }
 
 .card__face--front-crochet {
-  background-image: url(autocad.jpg);
+  background-image: url(autocad.JPG);
   background-size: cover;
  
 }
 
 .card__face--back-crochet {
-  background-image: url(crochet-back.jpg);
+  background-image: url(crochet-back.JPG);
   background-size: cover;
 
   transform: rotateY(180deg);
 }
 
 .card__face--front-skate {
-  background-image: url(bim-add.jpg);
+  background-image: url(bim-add.JPG);
   background-size: cover;
   
 }
 
 .card__face--back-skate {
-  background-image: url(skate-back.gif);
+  background-image: url(skate-back.GIF);
   background-size: cover;
 
   transform: rotateY(180deg);
 }
 
 .card__face--front-climb {
-  background-image: url(bim-model.jpg);
+  background-image: url(bim-model.JPG);
   background-size: cover;
   
 }
 
 .card__face--back-climb {
-  background-image: url(climb-back.gif);
+  background-image: url(climb-back.GIF);
   background-size: cover;
 
   transform: rotateY(180deg);
